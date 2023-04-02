@@ -2,7 +2,7 @@
 
 ## React Bileşenleri Oluşturma ve Props Aracılığıyla Veri Aktarma
 
-## Giriş
+## Giriş-
 
 - Bu proje için, React kullanarak basit bir Instagram klonu oluşturacaksınız.
 - Bazı sahte veriler içeren `sahte-veri.js` adlı bir dosya var. Sahte verilerdeki her nesne, sahte bir Instagram gönderisini temsil eder.
